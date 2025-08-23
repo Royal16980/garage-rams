@@ -1,0 +1,5 @@
+# Improvements
+
+- Expanded README with project overview and usage instructions.
+- Implemented core assessment logic, command line interface, and automated tests.
+- Set up development tooling and continuous integration (pending).
